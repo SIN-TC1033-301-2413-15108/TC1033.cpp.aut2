@@ -8,13 +8,6 @@ cd <assignments/Proyecto>
 Ej.- cd assignments/00-HelloWorld
 
 ```
-Regrese a la **carpeta fuente origen de todos los proyectos**, use:
-
-```
-Ej.- cd ../../
-
-```
-
 - 00-Func-Definicion (```cd assignments/00-Func-Definicion```)
 - 01-Func-Definicion (```cd assignments/01-Func-Definicion```)
 - 02-Func-Rand (```cd assignments/02-Func-Rand```)
